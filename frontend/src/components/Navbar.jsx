@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { data } from "../restApi.json";
-import { Link } from "react-scroll";
+import { Link } from "react-scroll"; 
 import { GiHamburgerMenu } from "react-icons/gi";
 import { IoFastFood } from "react-icons/io5";
 
